@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="./image/ktlogo.gif" alt="Logo" width="24">RUSTMINERSYSTEM
+# <img src="./image/ktlogo.gif" alt="Logo" width="24">EcMinerSystem
 
 ### <a href="https://rustminersystem.gitbook.io/rustminersystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
