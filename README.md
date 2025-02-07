@@ -197,7 +197,7 @@
 
 ### 👉 **加入聊天组**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/EcMinerSystem">[https://t.me/EcMinerSystem]</a></p>
 
 <p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
 
