@@ -34,7 +34,7 @@
 </div>
 
 <table>
-   <tr>
+   <tr> 
    <td>
 
 <span id="anzhuang"></span>
@@ -242,7 +242,7 @@
 
 ### 👉 **定制专属版本说明**
 
-   <p>&emsp;&emsp;1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a></p>
+   <p>&emsp;&emsp;1. 加入聊天群组 <a href="[https://t.me/EcMinerSystem]">https://t.me/EcMinerSystem</a></p>
    <p>&emsp;&emsp;2. 联系群主或管理员提供相关信息即可免费定制。</p>
 
    </td>
