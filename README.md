@@ -197,10 +197,9 @@
 
 ### 👉 **加入聊天组**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/EcMinerSystem">[https://t.me/EcMinerSystem]</a></p>
+<p>&emsp;&emsp;Telegram：<a href="https://t.me/EcMinerSystem">https://t.me/EcMinerSystem</a></p>
 
-<p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p>
-
+<p>&emsp;&emsp;QQ群: <a href="https://qm.qq.com/q/Skwxt2U8so">https://qm.qq.com/q/Skwxt2U8so
    </td>
    </tr>
    <tr>
