@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.3.1"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/92/linux"
+DOWNLOAD_HOST="https://github.com/holicepc/EcMinerSystem/blob/main/linux/ecminer-4.3.1"
 ORIGIN_EXEC="ecminer-${VERSION}"
 
 SERVICE_NAME="ecminerservice"
