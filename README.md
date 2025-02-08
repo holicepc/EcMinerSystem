@@ -10,7 +10,6 @@
 
 
 
-<a href="https://rustminersystem.gitbook.io/rustminersystem">English</a>｜<a href="https://rustminersystem.gitbook.io/rustminersystem">简体中文</a> | <a href="https://rustminersystem.gitbook.io/rustminersystem">Русский язык</a>
 
 <a href="#dingzhi">
    <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
@@ -68,34 +67,16 @@
    <p>&emsp;&emsp;运行以下shell指令以运行工具包</p>
 
    ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+     bash <(curl -s -L https://github.com/holicepc/EcMinerSystem/raw/main/install.sh)
    ```
 
-   <p>&emsp;&emsp;如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址</p>
-
-   ```sh
-     bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
-   ```
-   
    <p>&emsp;&emsp;成功运行后，您将看到以下菜单, 根据提示安装即可。</p>
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/image/install.gif">
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
-   <p>&emsp;&emsp;ARM版本请使用以下命令进行安装</p>
-   
-   &emsp;&emsp;ARM:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-   ```
-
-   &emsp;&emsp;ARMV7:
-
-   ```sh
-     bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
-   ```
+  
 
    </td>
    </tr>
@@ -107,7 +88,7 @@
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
    ```sh
-     https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+      https://github.com/holicepc/EcMinerSystem/tree/main/windows
    ```
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
@@ -222,17 +203,6 @@
 
 <span id="gengxin"></span>
 
-### 👉 **更新日志**
-
-   <p>&emsp;&emsp;<a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">点击查看更新日志</a>
-
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-<span id="dingzhi"></span>
 
 ### 👉 **定制专属版本说明**
 
