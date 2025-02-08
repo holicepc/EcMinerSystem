@@ -21,9 +21,7 @@
 <a href="#liaotian" target="_blank">
    <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E8%81%8A%E5%A4%A9-%F0%9F%91%88-00b9ff">
 </a>
-<a href="#gengxin" target="_blank">
-   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%F0%9F%91%88-00b9ff">
-</a>
+
 
 
 
