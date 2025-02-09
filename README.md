@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# < alt="Logo" width="24">EcMinerSystem
+# EcMinerSystem
 
 ### <a href="https://github.com/holicepc/EcMinerSystem">代理传统矿池, 或成为真正的矿池节点! 点击查看!</a>
 
