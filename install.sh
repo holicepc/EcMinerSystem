@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.5.9"
+VERSION="4.6.1"
 DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/92/linux"
 ORIGIN_EXEC="ecminer-${VERSION}"
 
