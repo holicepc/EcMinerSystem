@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="4.6.2"
-DOWNLOAD_HOST="https://github.com/mine-Proxy/shortcut/raw/main/Readme/4-68/linux"
+DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/92/linux"
 ORIGIN_EXEC="EcMinerSystem-${VERSION}"
 
 SERVICE_NAME="EcMinerSystemservice"
