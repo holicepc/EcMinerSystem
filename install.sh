@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.6.6"
+VERSION="4.6.7"
 DOWNLOAD_HOST="https://github.com/holicepc/EcMinerSystem/raw/main/linux"
 ORIGIN_EXEC="ecminer-${VERSION}"
 
