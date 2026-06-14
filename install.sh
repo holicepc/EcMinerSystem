@@ -5,7 +5,7 @@ VERSION="5.0.1"
 # Customer customization: change this block for white-label builds.
 APP_NAME="ecminer"
 APP_ID="ecminer"
-DOWNLOAD_HOST="https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/92/linux"
+DOWNLOAD_HOST="https://github.com/holicepc/EcMinerSystem/raw/main/linux"
 
 SERVICE_NAME="ecminerservice"
 PROCESS_WAIT_INTERVAL="0.1"
